@@ -1,0 +1,13 @@
+module.exports = {
+    "keyv_providers": {
+        "prefix": "provedor qualquer keyv"
+    },
+    "token": "token discord",
+    "defaultPrefix": "c.",
+    "ownerID": "id do dono do bot",
+    "pastebinho_api": "key para pastebin",
+    "bitly_api_key": "key para bitly",
+    "bitly_api_login": "login bitly",
+    "bitly_api_access_token": "access token bitly",
+    "weather": "key para weather"
+}
